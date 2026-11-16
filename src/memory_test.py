@@ -13,3 +13,9 @@ for i in range(5):
 
 print("Ожидание 20 секунд...", flush=True)
 time.sleep(20)
+print("Освобождение памяти...", flush=True)
+data.clear()
+import gc
+gc.collect()
+print("После очистки:", flush=True)
+time.sleep(20)
