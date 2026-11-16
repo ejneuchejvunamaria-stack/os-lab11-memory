@@ -1,0 +1,7 @@
+NAME      TYPE SIZE   USED PRIO
+/swapfile file 2,6G 615,3M   -2
+               total        used        free      shared  buff/cache   available
+Память:      4,8Gi       2,2Gi       493Mi        48Mi       2,1Gi       3,0Gi
+Подкачка:      2,6Gi       615Mi       2,0Gi
+Filename				Type		Size		Used		Priority
+/swapfile                               file		2744316		630064		-2
