@@ -1,0 +1,20 @@
+5dc97d4ae000-5dc97d4dd000 r--p 00000000 08:03 1179745                    /usr/bin/bash
+5dc97d4dd000-5dc97d5bc000 r-xp 0002f000 08:03 1179745                    /usr/bin/bash
+5dc97d5bc000-5dc97d5f6000 r--p 0010e000 08:03 1179745                    /usr/bin/bash
+5dc97d5f7000-5dc97d5fb000 r--p 00148000 08:03 1179745                    /usr/bin/bash
+5dc97d5fb000-5dc97d604000 rw-p 0014c000 08:03 1179745                    /usr/bin/bash
+5dc97d604000-5dc97d60f000 rw-p 00000000 00:00 0 
+5dc985b08000-5dc985c8b000 rw-p 00000000 00:00 0                          [heap]
+716ae3a00000-716ae3f75000 r--p 00000000 08:03 1198697                    /usr/lib/locale/locale-archive (deleted)
+716ae4000000-716ae4028000 r--p 00000000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae4028000-716ae41bd000 r-xp 00028000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae41bd000-716ae4215000 r--p 001bd000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae4215000-716ae4216000 ---p 00215000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae4216000-716ae421a000 r--p 00215000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae421a000-716ae421c000 rw-p 00219000 08:03 1181804                    /usr/lib/x86_64-linux-gnu/libc.so.6 (deleted)
+716ae421c000-716ae4229000 rw-p 00000000 00:00 0 
+716ae428e000-716ae42bc000 r--p 00000000 08:03 1486943                    /usr/share/locale-langpack/ru/LC_MESSAGES/libc.mo
+716ae42bc000-716ae42bf000 rw-p 00000000 00:00 0 
+716ae42bf000-716ae42cd000 r--p 00000000 08:03 1208693                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3 (deleted)
+716ae42cd000-716ae42de000 r-xp 0000e000 08:03 1208693                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3 (deleted)
+716ae42de000-716ae42ec000 r--p 0001f000 08:03 1208693                    /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3 (deleted)
