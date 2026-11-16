@@ -1,0 +1,10 @@
+    PID COMMAND            VSZ   RSS
+   5366 Isolated Web Co 12035476 880196
+   4460 firefox         12653872 776920
+   5844 Isolated Web Co 15608412 268764
+   2001 gnome-shell     5407128 228080
+  64928 unattended-upgr 467864 188312
+   6748 unattended-upgr 455864 187516
+  65005 unattended-upgr 467864 181740
+   4696 RDD Process     797276 122088
+  65029 apt-check       134648 119608
