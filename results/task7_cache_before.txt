@@ -1,0 +1,3 @@
+Buffers:           77240 kB
+Cached:          2001796 kB
+SReclaimable:     166508 kB
