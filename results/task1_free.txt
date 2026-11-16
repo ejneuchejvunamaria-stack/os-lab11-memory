@@ -1,0 +1,3 @@
+               total        used        free      shared  buff/cache   available
+Память:      4,8Gi       2,4Gi       319Mi        79Mi       2,0Gi       2,3Gi
+Подкачка:      2,6Gi       483Mi       2,1Gi
