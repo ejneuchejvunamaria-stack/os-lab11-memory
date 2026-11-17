@@ -1,0 +1,10 @@
+* 2431f89 Task 8: Docker experiment with 128m memory limit
+* 53fcb99 Task 7: page cache
+* f9007eb Task 6: swap info
+* 0495e40 Task 6: swap info
+* 4875b19 Task 5: free memory and measure RSS
+* dd2f037 Task 4: memory allocation test in Python
+* 3ff3074 Task3:process addres space (/proc/PID/maps)
+* 9a72189 Task2: process memory (ps, top)
+* 1851c4b Task1:system memory (free, meminfo)
+* 2fe3a95 Init lab 11:README and .gitignore
